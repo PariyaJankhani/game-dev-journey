@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3a7a2721d7ae7284eaa75ff699026d55
+guid: 1e9c1bf0fff528c48a43fd0b11c8dd47
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7892360942094450219
-    second: MushroomCar_0
+      213: 1578507450965039846
+    second: forgetmenot_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MushroomCar_0
+      name: forgetmenot_0
       rect:
         serializedVersion: 2
-        x: 103
-        y: 145
-        width: 818
-        height: 744
+        x: 73
+        y: 81
+        width: 870
+        height: 877
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5d10b47e983b87290800000000000000
-      internalID: -7892360942094450219
+      spriteID: 6ea1412d92cf7e510800000000000000
+      internalID: 1578507450965039846
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      MushroomCar_0: -7892360942094450219
+      forgetmenot_0: 1578507450965039846
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
